@@ -13,9 +13,9 @@ namespace Aula0705_Console
             Console.WriteLine("a: " + a);
 
             if (Console.CapsLock)
-                Console.WriteLine("CapsLock ativado");
+                Console.WriteLine("CapsLock Ativado");
             else
-                Console.WriteLine("CapsLock desativado");
+                Console.WriteLine("CapsLock Desativado");
 
             Console.ReadKey();
         }
